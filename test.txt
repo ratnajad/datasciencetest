@@ -1,0 +1,7 @@
+total 16
+drwxr-xr-x   6 ratna  staff  192 Jun 17 14:56 .
+drwxr-xr-x   4 ratna  staff  128 Jun 12 18:32 ..
+drwxr-xr-x  13 ratna  staff  416 Jun 12 18:46 .git
+-rw-r--r--   1 ratna  staff   17 Jun 12 18:24 README.md
+-rw-r--r--   1 ratna  staff    0 Jun 17 14:56 test.txt
+-rw-r--r--   1 ratna  staff  129 Jun 12 18:43 testgit.py
